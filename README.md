@@ -6,7 +6,7 @@ Argentina
 
 ---
 
-## obre mí
+## Sobre mí
 
 Actualmente me encuentro formándome en el área de Tecnología de la Información, con una base sólida en programación, análisis de sistemas y arquitectura de computadoras.  
 Me caracterizo por ser una persona constante, metódica y orientada a la resolución de problemas técnicos.
