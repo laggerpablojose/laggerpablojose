@@ -1,12 +1,12 @@
-# 👋 Hola, soy Pablo José Lagger
+# Hola, soy Pablo José Lagger
 
-🎓 Estudiante de la Tecnicatura Universitaria en Tecnologías de la Información (UTN)  
-💻 Interesado en Soporte IT, Programación y Sistemas  
-📍 Argentina  
+Estudiante de la Tecnicatura Universitaria en Tecnologías de la Información (UTN)  
+Interesado en Soporte IT, Programación y Sistemas  
+Argentina  
 
 ---
 
-## 🚀 Sobre mí
+## obre mí
 
 Actualmente me encuentro formándome en el área de Tecnología de la Información, con una base sólida en programación, análisis de sistemas y arquitectura de computadoras.  
 Me caracterizo por ser una persona constante, metódica y orientada a la resolución de problemas técnicos.
@@ -15,7 +15,7 @@ Estoy construyendo proyectos propios para aplicar lo aprendido y mejorar mis hab
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 - **Lenguajes:**  
   - Java  
@@ -36,7 +36,7 @@ Estoy construyendo proyectos propios para aplicar lo aprendido y mejorar mis hab
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
 🔹 **Aplicación de hábitos (en desarrollo)**  
 Proyecto personal para aplicar análisis, diseño y programación desde cero, siguiendo buenas prácticas de versionado y documentación.
@@ -48,15 +48,15 @@ Repositorio con ejercicios de Java, JavaScript y SQL realizados durante la carre
 
 ---
 
-## 📈 Objetivo profesional
+## Objetivo profesional
 
 Mi objetivo es desarrollarme profesionalmente en el área de **Soporte IT y Desarrollo**, continuar aprendiendo de forma constante y acceder a mi primer rol formal dentro del sector tecnológico.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pablojlagger/ 
-- 📧 Email: laggerpablojose@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/pablojlagger/ 
+- Email: laggerpablojose@gmail.com 
 
-Gracias por visitar mi perfil 👨‍💻
+Gracias por visitar mi perfil 
