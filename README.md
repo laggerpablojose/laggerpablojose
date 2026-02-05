@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Pablo José Lagger 👋</h1>
+<h1 align="center">Hola, soy Pablo José Lagger</h1>
 
 <p align="center">
   <b>Estudiante de la Tecnicatura Universitaria en Tecnologías de la Información (UTN)</b><br/>
   Perfil técnico en <b>Programación y Sistemas</b><br/>
-  Argentina 🇦🇷
+  Argentina
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <hr/>
 
-<h2>🧠 Sobre mí</h2>
+<h2>Sobre mí</h2>
 
 <p>
 Me encuentro en formación activa dentro del área de Tecnología de la Información, con foco en
@@ -35,7 +35,7 @@ Busco desarrollarme en un primer rol IT donde pueda seguir aprendiendo, aportar 
 
 <hr/>
 
-<h2>🛠️ Stack técnico</h2>
+<h2>Stack técnico</h2>
 
 <h3>Lenguajes</h3>
 <ul>
@@ -62,9 +62,9 @@ Busco desarrollarme en un primer rol IT donde pueda seguir aprendiendo, aportar 
 
 <hr/>
 
-<h2>📂 Proyectos (en desarrollo)</h2>
+<h2>Proyectos (en desarrollo)</h2>
 
-<h3>🔹 Aplicación de hábitos</h3>
+<h3>Aplicación de hábitos</h3>
 <p>Proyecto personal desarrollado desde cero, aplicando:</p>
 <ul>
   <li>análisis del problema</li>
@@ -73,7 +73,7 @@ Busco desarrollarme en un primer rol IT donde pueda seguir aprendiendo, aportar 
   <li>control de versiones con Git</li>
 </ul>
 
-<h3>🔹 Prácticas académicas y ejercicios técnicos</h3>
+<h3>Prácticas académicas y ejercicios técnicos</h3>
 <p>
 Repositorios con ejercicios de Java, JavaScript y SQL orientados a reforzar lógica, estructuras y buenas prácticas.
 </p>
@@ -84,7 +84,7 @@ Repositorios con ejercicios de Java, JavaScript y SQL orientados a reforzar lóg
 
 <hr/>
 
-<h2>🎯 Objetivo</h2>
+<h2>Objetivo</h2>
 
 <p>
 Mi objetivo es desarrollarme profesionalmente en el área de <b>Desarrollo</b>, continuar aprendiendo de forma constante y
@@ -93,12 +93,11 @@ acceder a mi primer rol formal dentro del sector tecnológico.
 
 <hr/>
 
-<h2>📫 Contacto</h2>
+<h2>Contacto</h2>
 
 <ul>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pablojlagger/" target="_blank">linkedin.com/in/pablojlagger</a></li>
   <li><b>Email:</b> <a href="mailto:laggerpablojose@gmail.com">laggerpablojose@gmail.com</a></li>
 </ul>
 
-<p>Gracias por visitar mi perfil 🙌</p>
-
+<p>Gracias por visitar mi perfil.</p>
